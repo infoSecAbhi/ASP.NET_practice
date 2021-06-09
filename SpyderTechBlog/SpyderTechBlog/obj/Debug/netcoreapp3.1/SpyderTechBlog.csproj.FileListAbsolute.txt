@@ -6,7 +6,6 @@ E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\bin\Debug\netcoreapp3.1\Sp
 E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\bin\Debug\netcoreapp3.1\SpyderTechBlog.runtimeconfig.dev.json
 E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\bin\Debug\netcoreapp3.1\SpyderTechBlog.dll
 E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\bin\Debug\netcoreapp3.1\SpyderTechBlog.pdb
-E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\obj\Debug\netcoreapp3.1\SpyderTechBlog.csproj.AssemblyReference.cache
 E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\obj\Debug\netcoreapp3.1\SpyderTechBlog.AssemblyInfoInputs.cache
 E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\obj\Debug\netcoreapp3.1\SpyderTechBlog.AssemblyInfo.cs
 E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\obj\Debug\netcoreapp3.1\SpyderTechBlog.csproj.CoreCompileInputs.cache
@@ -18,3 +17,6 @@ E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\obj\Debug\netcoreapp3.1\Sp
 E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\obj\Debug\netcoreapp3.1\SpyderTechBlog.dll
 E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\obj\Debug\netcoreapp3.1\SpyderTechBlog.pdb
 E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\obj\Debug\netcoreapp3.1\SpyderTechBlog.genruntimeconfig.cache
+E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\obj\Debug\netcoreapp3.1\SpyderTechBlog.csproj.AssemblyReference.cache
+E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\bin\Debug\netcoreapp3.1\SpyderTechBlog.Views.dll
+E:\GIT\ASP.NET_practice\SpyderTechBlog\SpyderTechBlog\obj\Debug\netcoreapp3.1\SpyderTechBlog.csproj.CopyComplete
